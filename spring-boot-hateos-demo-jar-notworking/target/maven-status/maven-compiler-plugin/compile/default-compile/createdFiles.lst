@@ -1,0 +1,7 @@
+com\abdul\springprojects\ajaxhateoas\model\Order.class
+com\abdul\springprojects\ajaxhateoas\repo\CustomerRepository.class
+com\abdul\springprojects\ajaxhateoas\message\Response.class
+com\abdul\springprojects\ajaxhateoas\message\Request.class
+com\abdul\springprojects\ajaxhateoas\controller\CustomerController.class
+com\abdul\springprojects\ajaxhateoas\model\Customer.class
+com\abdul\springprojects\ajaxhateoas\SpringBootAjaxHateoasApplication.class

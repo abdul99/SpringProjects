@@ -1,0 +1,9 @@
+server.contextPath: /auth
+
+logging:
+ level:
+   org.springframework.security: DEBUG
+server:
+ port: 8181
+keystore:
+  password: mySecretKey

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringMicroServiceBooking
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Afshan
+Implementation-Vendor-Id: it.blog.microservice
+Build-Jdk: 1.8.0_71
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: it.blog.microservice.eureka.EurekaServer
+

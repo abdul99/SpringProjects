@@ -1,0 +1,4 @@
+com\springprojects\commandargs\App.class
+com\springprojects\commandargs\controller\HelloGbController.class
+com\springprojects\commandargs\component\CommandLineAppStartupRunner.class
+com\springprojects\commandargs\component\AppStartupRunner.class

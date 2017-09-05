@@ -1,0 +1,7 @@
+org\exampledriven\hateoas\service\CustomerService.class
+org\exampledriven\hateoas\service\InvoiceService.class
+org\exampledriven\hateoas\controller\InvoiceController.class
+org\exampledriven\hateoas\domain\Invoice.class
+org\exampledriven\hateoas\SpringHateoasExampleApplication.class
+org\exampledriven\hateoas\controller\CustomerController.class
+org\exampledriven\hateoas\domain\Customer.class

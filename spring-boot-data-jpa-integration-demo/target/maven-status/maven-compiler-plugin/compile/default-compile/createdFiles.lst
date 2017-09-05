@@ -1,0 +1,7 @@
+com\gkatzioura\springdata\jpa\Application.class
+com\gkatzioura\springdata\jpa\persistence\repository\EmployeeRepositoryImpl.class
+com\gkatzioura\springdata\jpa\config\DataSourceConfig.class
+com\gkatzioura\springdata\jpa\controller\TestController.class
+com\gkatzioura\springdata\jpa\persistence\repository\EmployeeRepositoryCustom.class
+com\gkatzioura\springdata\jpa\persistence\entity\Employee.class
+com\gkatzioura\springdata\jpa\persistence\repository\EmployeeRepository.class

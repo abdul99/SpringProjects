@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests" time="0.02" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre\bin"/>
+    <property name="java.vm.version" value="25.65-b01"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS"/>
+    <property name="java.runtime.version" value="1.8.0_65-b17"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Afshan\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="F:\spring-microservices\stsworks\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3681721775332556497.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files (x86)/Java/jre1.8.0_71/bin/client;C:/Program Files (x86)/Java/jre1.8.0_71/bin;C:/Program Files (x86)/Java/jre1.8.0_71/lib/i386;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\nodejs\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk1.8.0_65\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;%JAVA_HOME\bin%;G:\apache-maven-3.2.5\bin;G:\apache-maven-3.2.5\bin;F:\gradle-2.14-bin\gradle-2.14\bin;%JRE_HOME%\bin;C:\Users\Afshan\AppData\Roaming\npm;G:\blogjs-master\blogjs-master\node_modules\.bin;F:\JAVAHOME\bin;C:\Program Files\Git;;F:\IoT-Architecture\zookeeper\zookeeper-3.4.9\bin;C:\Users\Afshan\AppData\Local\Microsoft\WindowsApps;F:\rabbitmqapp\Handle;C:\Program Files\Docker Toolbox;C:\Program Files\MongoDB\Server\3.4\bin;F:\spring-microservices\spring-tool-suite-3.9.0.RELEASE-e4.7.0-win32\sts-bundle\sts-3.9.0.RELEASE;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Afshan"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Afshan"/>
+    <property name="java.class.path" value="/F:/spring-microservices/spring-tool-suite-3.9.0.RELEASE-e4.7.0-win32/sts-bundle/sts-3.9.0.RELEASE/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20170516-2042/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_65"/>
+    <property name="java.ext.dirs" value="F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre\lib\resources.jar;F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre\lib\rt.jar;F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre\lib\sunrsasign.jar;F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre\lib\jsse.jar;F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre\lib\jce.jar;F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre\lib\charsets.jar;F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre\lib\jfr.jar;F:\IoT-Architecture\IoT-Softwares\jdk1.8.0_65\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="initializationError" classname="com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests" time="0.02">
+    <error message="Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test" type="java.lang.IllegalStateException"><![CDATA[java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+	at org.springframework.util.Assert.state(Assert.java:70)
+	at org.springframework.boot.test.context.SpringBootTestContextBootstrapper.getOrFindConfigurationClasses(SpringBootTestContextBootstrapper.java:202)
+	at org.springframework.boot.test.context.SpringBootTestContextBootstrapper.processMergedContextConfiguration(SpringBootTestContextBootstrapper.java:137)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildMergedContextConfiguration(AbstractTestContextBootstrapper.java:409)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildDefaultMergedContextConfiguration(AbstractTestContextBootstrapper.java:323)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildMergedContextConfiguration(AbstractTestContextBootstrapper.java:277)
+	at org.springframework.test.context.support.AbstractTestContextBootstrapper.buildTestContext(AbstractTestContextBootstrapper.java:112)
+	at org.springframework.boot.test.context.SpringBootTestContextBootstrapper.buildTestContext(SpringBootTestContextBootstrapper.java:82)
+	at org.springframework.test.context.TestContextManager.<init>(TestContextManager.java:120)
+	at org.springframework.test.context.TestContextManager.<init>(TestContextManager.java:105)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.createTestContextManager(SpringJUnit4ClassRunner.java:152)
+	at org.springframework.test.context.junit4.SpringJUnit4ClassRunner.<init>(SpringJUnit4ClassRunner.java:143)
+	at org.springframework.test.context.junit4.SpringRunner.<init>(SpringRunner.java:49)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at org.junit.internal.builders.AnnotatedBuilder.buildRunner(AnnotatedBuilder.java:104)
+	at org.junit.internal.builders.AnnotatedBuilder.runnerForClass(AnnotatedBuilder.java:86)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:26)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)
+	at org.junit.internal.requests.ClassRequest.getRunner(ClassRequest.java:33)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:283)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:173)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:128)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+]]></error>
+    <system-out><![CDATA[15:39:15.941 [main] DEBUG org.springframework.test.context.junit4.SpringJUnit4ClassRunner - SpringJUnit4ClassRunner constructor called with [class com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]
+15:39:16.013 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+15:39:16.053 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+15:39:16.092 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+15:39:16.122 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests], using SpringBootContextLoader
+15:39:16.129 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]: class path resource [com/javasampleapproach/ajaxhateoas/SpringBootAjaxHateoasApplicationTests-context.xml] does not exist
+15:39:16.130 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]: class path resource [com/javasampleapproach/ajaxhateoas/SpringBootAjaxHateoasApplicationTestsContext.groovy] does not exist
+15:39:16.131 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+15:39:16.132 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]: SpringBootAjaxHateoasApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:39:16.236 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]
+15:39:16.263 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemProperties] PropertySource with lowest search precedence
+15:39:16.263 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemEnvironment] PropertySource with lowest search precedence
+15:39:16.264 [main] DEBUG org.springframework.core.env.StandardEnvironment - Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+15:39:16.313 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [com/javasampleapproach/ajaxhateoas/] to resources [URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/javasampleapproach/ajaxhateoas/], URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/javasampleapproach/ajaxhateoas/]]
+15:39:16.314 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com\javasampleapproach\ajaxhateoas]
+15:39:16.314 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com\javasampleapproach\ajaxhateoas] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/javasampleapproach/ajaxhateoas/*.class]
+15:39:16.321 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com\javasampleapproach\ajaxhateoas]
+15:39:16.322 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com\javasampleapproach\ajaxhateoas] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/javasampleapproach/ajaxhateoas/*.class]
+15:39:16.322 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:com/javasampleapproach/ajaxhateoas/*.class] to resources [file [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com\javasampleapproach\ajaxhateoas\SpringBootAjaxHateoasApplicationTests.class]]
+15:39:16.369 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [com/javasampleapproach/] to resources [URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/javasampleapproach/], URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/javasampleapproach/]]
+15:39:16.369 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com\javasampleapproach]
+15:39:16.370 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com\javasampleapproach] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/javasampleapproach/*.class]
+15:39:16.371 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com\javasampleapproach]
+15:39:16.371 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com\javasampleapproach] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/javasampleapproach/*.class]
+15:39:16.372 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:com/javasampleapproach/*.class] to resources []
+15:39:16.374 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [com/] to resources [URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/], URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/], URL [jar:file:/C:/Users/Afshan/.m2/repository/com/fasterxml/classmate/1.3.3/classmate-1.3.3.jar!/com/], URL [jar:file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.jar!/com/], URL [jar:file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar!/com/], URL [jar:file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar!/com/], URL [jar:file:/C:/Users/Afshan/.m2/repository/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.jar!/com/]]
+15:39:16.375 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com]
+15:39:16.375 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/*.class]
+15:39:16.376 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com]
+15:39:16.376 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/*.class]
+15:39:16.378 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/C:/Users/Afshan/.m2/repository/com/fasterxml/classmate/1.3.3/classmate-1.3.3.jar]
+15:39:16.382 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.jar]
+15:39:16.414 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar]
+15:39:16.415 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar]
+15:39:16.417 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/C:/Users/Afshan/.m2/repository/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.jar]
+15:39:16.420 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:com/*.class] to resources []
+15:39:16.428 [main] DEBUG org.springframework.test.context.junit4.SpringJUnit4ClassRunner - SpringJUnit4ClassRunner constructor called with [class com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]
+15:39:16.428 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating CacheAwareContextLoaderDelegate from class [org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate]
+15:39:16.430 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating BootstrapContext using constructor [public org.springframework.test.context.support.DefaultBootstrapContext(java.lang.Class,org.springframework.test.context.CacheAwareContextLoaderDelegate)]
+15:39:16.431 [main] DEBUG org.springframework.test.context.BootstrapUtils - Instantiating TestContextBootstrapper for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests] from class [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]
+15:39:16.433 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests], using SpringBootContextLoader
+15:39:16.435 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]: class path resource [com/javasampleapproach/ajaxhateoas/SpringBootAjaxHateoasApplicationTests-context.xml] does not exist
+15:39:16.437 [main] DEBUG org.springframework.test.context.support.AbstractContextLoader - Did not detect default resource location for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]: class path resource [com/javasampleapproach/ajaxhateoas/SpringBootAjaxHateoasApplicationTestsContext.groovy] does not exist
+15:39:16.437 [main] INFO org.springframework.test.context.support.AbstractContextLoader - Could not detect default resource locations for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+15:39:16.455 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]: SpringBootAjaxHateoasApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:39:16.488 [main] DEBUG org.springframework.test.context.support.ActiveProfilesUtils - Could not find an 'annotation declaring class' for annotation type [org.springframework.test.context.ActiveProfiles] and class [com.javasampleapproach.ajaxhateoas.SpringBootAjaxHateoasApplicationTests]
+15:39:16.489 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemProperties] PropertySource with lowest search precedence
+15:39:16.490 [main] DEBUG org.springframework.core.env.StandardEnvironment - Adding [systemEnvironment] PropertySource with lowest search precedence
+15:39:16.490 [main] DEBUG org.springframework.core.env.StandardEnvironment - Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+15:39:16.491 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [com/javasampleapproach/ajaxhateoas/] to resources [URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/javasampleapproach/ajaxhateoas/], URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/javasampleapproach/ajaxhateoas/]]
+15:39:16.491 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com\javasampleapproach\ajaxhateoas]
+15:39:16.492 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com\javasampleapproach\ajaxhateoas] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/javasampleapproach/ajaxhateoas/*.class]
+15:39:16.494 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com\javasampleapproach\ajaxhateoas]
+15:39:16.495 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com\javasampleapproach\ajaxhateoas] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/javasampleapproach/ajaxhateoas/*.class]
+15:39:16.497 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:com/javasampleapproach/ajaxhateoas/*.class] to resources [file [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com\javasampleapproach\ajaxhateoas\SpringBootAjaxHateoasApplicationTests.class]]
+15:39:16.499 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [com/javasampleapproach/] to resources [URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/javasampleapproach/], URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/javasampleapproach/]]
+15:39:16.500 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com\javasampleapproach]
+15:39:16.500 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com\javasampleapproach] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/javasampleapproach/*.class]
+15:39:16.502 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com\javasampleapproach]
+15:39:16.502 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com\javasampleapproach] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/javasampleapproach/*.class]
+15:39:16.504 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:com/javasampleapproach/*.class] to resources []
+15:39:16.512 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved classpath location [com/] to resources [URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/], URL [file:/F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/], URL [jar:file:/C:/Users/Afshan/.m2/repository/com/fasterxml/classmate/1.3.3/classmate-1.3.3.jar!/com/], URL [jar:file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.jar!/com/], URL [jar:file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar!/com/], URL [jar:file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar!/com/], URL [jar:file:/C:/Users/Afshan/.m2/repository/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.jar!/com/]]
+15:39:16.513 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com]
+15:39:16.515 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\test-classes\com] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/test-classes/com/*.class]
+15:39:16.519 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in directory tree [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com]
+15:39:16.520 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Searching directory [F:\spring-hateos\SpringBootAjaxHATEOAS-jquery\SpringBootAjaxHATEOAS\target\classes\com] for files matching pattern [F:/spring-hateos/SpringBootAjaxHATEOAS-jquery/SpringBootAjaxHATEOAS/target/classes/com/*.class]
+15:39:16.525 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/C:/Users/Afshan/.m2/repository/com/fasterxml/classmate/1.3.3/classmate-1.3.3.jar]
+15:39:16.527 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.8/jackson-databind-2.8.8.jar]
+15:39:16.544 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar]
+15:39:16.549 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/C:/Users/Afshan/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.8/jackson-core-2.8.8.jar]
+15:39:16.552 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Looking for matching resources in jar file [file:/C:/Users/Afshan/.m2/repository/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.jar]
+15:39:16.555 [main] DEBUG org.springframework.core.io.support.PathMatchingResourcePatternResolver - Resolved location pattern [classpath*:com/*.class] to resources []
+]]></system-out>
+  </testcase>
+</testsuite>

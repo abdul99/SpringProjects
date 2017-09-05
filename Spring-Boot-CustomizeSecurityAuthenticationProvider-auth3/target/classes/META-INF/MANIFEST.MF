@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootCustomizeSecurityAuthenticationProvide
+ r
+Implementation-Version: 0.0.1
+Built-By: Afshan
+Implementation-Vendor-Id: com.javasampleapproach.security.customizeaut
+ henticationprovider
+Build-Jdk: 1.8.0_71
+Implementation-URL: http://projects.spring.io/spring-boot/Spring-Boot-
+ CustomizeSecurityAuthenticationProvider-auth3/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

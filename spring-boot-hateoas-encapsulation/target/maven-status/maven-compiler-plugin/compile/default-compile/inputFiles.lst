@@ -1,0 +1,13 @@
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\resource\CustomerResource.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\resource\InvoiceResource.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\SpringHateoasExampleApplication.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\controller\InvoiceController.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\controller\assembler\CustomerResourceAssembler.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\controller\CustomerController.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\service\InvoiceService.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\domain\Invoice.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\domain\Customer.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\service\CustomerService.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\resource\CustomerListResource.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\resource\InvoiceListResource.java
+F:\spring-hateos\spring-hateoas-example-master\encapsulation\src\main\java\org\exampledriven\hateoas\controller\assembler\InvoiceResourceAssembler.java

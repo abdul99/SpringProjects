@@ -1,0 +1,8 @@
+com\javasampleapproach\angularhateoas\model\Customer.class
+com\javasampleapproach\angularhateoas\message\Response.class
+com\javasampleapproach\angularhateoas\SpringBootAngularHateoasApplication.class
+com\javasampleapproach\angularhateoas\controller\WebController.class
+com\javasampleapproach\angularhateoas\ServletInitializer.class
+com\javasampleapproach\angularhateoas\repo\CustomerRepository.class
+com\javasampleapproach\angularhateoas\controller\CustomerController.class
+com\javasampleapproach\angularhateoas\model\Order.class

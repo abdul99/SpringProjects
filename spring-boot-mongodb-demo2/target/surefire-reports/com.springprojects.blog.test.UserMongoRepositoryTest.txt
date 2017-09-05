@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.springprojects.blog.test.UserMongoRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0.048 sec <<< FAILURE! - in com.springprojects.blog.test.UserMongoRepositoryTest
+testFetchData(com.springprojects.blog.test.UserMongoRepositoryTest)  Time elapsed: 0.046 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.springprojects.blog.test.UserMongoRepositoryTest.setUp(UserMongoRepositoryTest.java:28)
+
+testFetchData(com.springprojects.blog.test.UserMongoRepositoryTest)  Time elapsed: 0.048 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.springprojects.blog.test.UserMongoRepositoryTest.tearDown(UserMongoRepositoryTest.java:62)
+
+testDataUpdate(com.springprojects.blog.test.UserMongoRepositoryTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.springprojects.blog.test.UserMongoRepositoryTest.setUp(UserMongoRepositoryTest.java:28)
+
+testDataUpdate(com.springprojects.blog.test.UserMongoRepositoryTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.springprojects.blog.test.UserMongoRepositoryTest.tearDown(UserMongoRepositoryTest.java:62)
+
